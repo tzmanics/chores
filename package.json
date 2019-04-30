@@ -1,0 +1,23 @@
+{
+  "name": "kinvey-base-project",
+  "version": "1.0.0",
+  "description": "A base project for Kinvey <3 Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tzmanics/node-kinvey-base-project.git"
+  },
+  "keywords": [
+    "Kinvey",
+    "Node.js"
+  ],
+  "author": "Tara Z. Manicsic <tzmanics@gmail.com> (https://tzmanics.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tzmanics/node-kinvey-base-project/issues"
+  },
+  "homepage": "https://github.com/tzmanics/node-kinvey-base-project#readme"
+}
