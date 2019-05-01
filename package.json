@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/tzmanics/node-kinvey-base-project/issues"
   },
-  "homepage": "https://github.com/tzmanics/node-kinvey-base-project#readme"
+  "homepage": "https://github.com/tzmanics/node-kinvey-base-project#readme",
+  "dependencies": {
+    "kinvey-node-sdk": "^3.12.5"
+  }
 }
