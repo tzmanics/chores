@@ -1,5 +1,5 @@
 const Kinvey = require('kinvey-node-sdk');
-const config = require('./config-example');
+const config = require('./config');
 
 Kinvey.init(config.kinvey);
 
